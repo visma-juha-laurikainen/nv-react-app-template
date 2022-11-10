@@ -10,6 +10,7 @@
     "@testing-library/user-event": "14.4.3",
     "@visma-netvisor/app-tools": "2.1.5",
     "@visma-netvisor/build-scripts": "2.0.0-rc.0",
+    "@visma-netvisor/nv-react-icons": "2.0.0",
     "@visma-netvisor/react-component-library": "4.0.2",
     "date-fns": "2.29.3",
     "i18next": "21.10.0",
