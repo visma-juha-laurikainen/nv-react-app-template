@@ -11,7 +11,7 @@ export function setupI18n(lng = "fi") {
   };
 
   i18n.use(initReactI18next).init({
-    defaultNS: "translations",
+    defaultNS: "translation",
     fallbackLng: "fi",
     interpolation: {
       escapeValue: false,
