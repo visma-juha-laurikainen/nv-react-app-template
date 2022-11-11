@@ -20,7 +20,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "strictNullChecks": true,
     "target": "es5",
-    "types": ["node", "jest"]
+    "types": ["node", "jest", "@testing-library/jest-dom"]
   },
   "include": ["./src/**/*"],
   "exclude": [
