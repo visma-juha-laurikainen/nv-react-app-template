@@ -4,12 +4,8 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@popperjs/core": "2.11.6",
-    "@testing-library/dom": "8.19.0",
-    "@testing-library/jest-dom": "5.16.5",
-    "@testing-library/react": "13.4.0",
-    "@testing-library/user-event": "14.4.3",
     "@visma-netvisor/app-tools": "2.1.5",
-    "@visma-netvisor/build-scripts": "2.0.0-rc.2",
+    "@visma-netvisor/build-scripts": "2.0.0-rc.3",
     "@visma-netvisor/nv-react-icons": "2.0.0",
     "@visma-netvisor/react-component-library": "4.0.2",
     "date-fns": "2.29.3",
@@ -30,6 +26,10 @@
     "test": "build-scripts test"
   },
   "devDependencies": {
+    "@testing-library/dom": "8.19.0",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "14.4.3",
     "@types/jest": "29.2.2",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
