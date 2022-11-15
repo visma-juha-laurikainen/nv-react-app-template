@@ -5,7 +5,6 @@
   "dependencies": {
     "@popperjs/core": "2.11.6",
     "@visma-netvisor/app-tools": "2.1.5",
-    "@visma-netvisor/build-scripts": "2.0.0",
     "@visma-netvisor/nv-react-icons": "2.0.0",
     "@visma-netvisor/react-component-library": "4.0.3",
     "date-fns": "2.29.3",
@@ -38,6 +37,7 @@
     "@types/styled-components": "5.1.26",
     "@typescript-eslint/eslint-plugin": "5.42.1",
     "@typescript-eslint/parser": "5.42.1",
+    "@visma-netvisor/build-scripts": "2.0.0",
     "eslint": "8.27.0",
     "eslint-plugin-react": "7.31.10",
     "eslint-plugin-react-hooks": "4.6.0"
